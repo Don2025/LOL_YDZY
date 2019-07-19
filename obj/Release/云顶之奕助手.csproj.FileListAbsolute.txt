@@ -1,0 +1,12 @@
+D:\Code\C#Code\Projects\云顶之奕助手\bin\Release\云顶之奕助手.exe.config
+D:\Code\C#Code\Projects\云顶之奕助手\bin\Release\云顶之奕助手.exe
+D:\Code\C#Code\Projects\云顶之奕助手\bin\Release\云顶之奕助手.pdb
+D:\Code\C#Code\Projects\云顶之奕助手\obj\Release\云顶之奕助手.csprojAssemblyReference.cache
+D:\Code\C#Code\Projects\云顶之奕助手\obj\Release\云顶之奕助手.Form1.resources
+D:\Code\C#Code\Projects\云顶之奕助手\obj\Release\云顶之奕助手.Form2.resources
+D:\Code\C#Code\Projects\云顶之奕助手\obj\Release\云顶之奕助手.FormFloat.resources
+D:\Code\C#Code\Projects\云顶之奕助手\obj\Release\云顶之奕助手.Properties.Resources.resources
+D:\Code\C#Code\Projects\云顶之奕助手\obj\Release\云顶之奕助手.csproj.GenerateResource.cache
+D:\Code\C#Code\Projects\云顶之奕助手\obj\Release\云顶之奕助手.csproj.CoreCompileInputs.cache
+D:\Code\C#Code\Projects\云顶之奕助手\obj\Release\云顶之奕助手.exe
+D:\Code\C#Code\Projects\云顶之奕助手\obj\Release\云顶之奕助手.pdb
