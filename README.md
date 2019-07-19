@@ -12,4 +12,4 @@
 注意！！！LOL的游戏窗口一定要设置为无边框或者窗口化才能用该助手。
 不要问为什么，问就是我太菜了 能力有限。
 以后可能会推出阵容推荐的功能（有生之年？？？）。
-![login](https://github.com/Don2025/LOL_YDZY//master[分支名称]/screenshots/login.png)
+![login](https://github.com/Don2025/LOL_YDZY/blob/master/image/%E8%BF%90%E8%A1%8C%E7%95%8C%E9%9D%A21.png)
